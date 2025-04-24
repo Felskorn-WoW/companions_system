@@ -22,3 +22,5 @@ Credits
 - Hawjiki for basic script, planning and idea.
 - ChatGPT for assisting me with some aspects.
 - Fenuks for overhauling, improvements, and generally making it work and run smoothly. <3
+
+[![Preview](http://i3.ytimg.com/vi/P9zsLL2xS10/hqdefault.jpg)](https://www.youtube.com/watch?v=P9zsLL2xS10)
