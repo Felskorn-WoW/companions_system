@@ -9,6 +9,7 @@ This is a Eluna script designed to simulate having personal companions to assist
 - Dismissing will only affect the companions and not dismiss a Warlock, Hunter, or Death Knight Pet.
 - Summoned NPC will use server-side setting to handle it's abilities. SmartAI, Eluna, and Core-side scripts.
 - Summoned NPC are entirely controlled from creature_template. This includes level, health, mana, speed, and damage.
+- Limits the player to only have one companion out a time.
 
 Suggested Tips
 - Use faction 1718 for companions. Will ensure they do not killsteal loot and are friendly to ALL players.
