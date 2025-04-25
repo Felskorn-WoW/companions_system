@@ -33,6 +33,7 @@ This is a Eluna script designed to simulate having personal companions to assist
 - Fenuks for overhauling, improvements, and generally making it work and run smoothly. <3
 
 **Notes**
-This script was designed for use Felskorn WoW and as such, it's future development will be with this server's plans.
+- This script was designed for use Felskorn WoW and as such, it's future development will be with this server's plans.
+- This was made for TrinityCore. Untested with anything else.
 
 [![Preview](http://i3.ytimg.com/vi/P9zsLL2xS10/hqdefault.jpg)](https://www.youtube.com/watch?v=P9zsLL2xS10)
