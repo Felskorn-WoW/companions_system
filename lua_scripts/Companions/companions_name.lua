@@ -1,6 +1,6 @@
-local COMPANION_NAME = "Melrania Silversong"
-local NPC_ENTRY = 33442 -- NPC entry id
-local SUMMON_COOLDOWN = 30 -- Spell cooldown before you can summon again
+local COMPANION_NAME = "Melrania Silversong" --Replace name with desired name
+local NPC_ENTRY = 33442 -- Replace with your NPC entry
+local SUMMON_COOLDOWN = 30 -- Spell cooldown before you can summon again, in seconds
 local SUMMON_SPELL_ID = 42880 -- Replace with custom summoning spell
 
 local summonedNpcs = {}        
